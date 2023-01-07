@@ -1,0 +1,23 @@
+{
+  "name": "reactioncable",
+  "version": "1.0.0",
+  "description": "Reactioncable is yet another way to use ActionCable with React. It's strongly typed and optimized for Hooks.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okuramasafumi/reactioncable.git"
+  },
+  "keywords": [
+    "React",
+    "ActionCable"
+  ],
+  "author": "OKURA Masafumi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/okuramasafumi/reactioncable/issues"
+  },
+  "homepage": "https://github.com/okuramasafumi/reactioncable#readme"
+}
